@@ -1,6 +1,7 @@
 # nsPlayer
+Mobile App using NativeScript-Vue
 
-Created using
+Created by using
 ```
 ns create nsPlayer --vue
 ```
